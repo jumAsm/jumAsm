@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Software engineer student<br>learning stuff, one line at a time
 
 
